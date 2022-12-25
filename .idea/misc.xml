@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_account.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_articles_menagers.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_boissons.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_boissons_alcolisees.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_boissons_alcolisees2.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_chips_sucreries.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_choose_payments.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_details_markets.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_fruits_legumes.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_image_picker.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_livraison.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_markets.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_pains.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_produits_cosmetiques.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_produits_laiters.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_viandes.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cards_method.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_card.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_cart_item.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_categories.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_favorite_item.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_fruits_legumes.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_market.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_newproducts.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/cardview_related_items.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/component_tabbar_badge.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/fragment_cart.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/fragment_favorites.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/image_slider_layout_item.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/item_details.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/row_item.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/menu/drawer_nenu.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/menu/toolbar_search_menu.xml" value="0.24739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
